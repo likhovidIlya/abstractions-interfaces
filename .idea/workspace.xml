@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48959c2e-8847-4f86-8a07-35022382df9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryUser/Administrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryUser/Librarian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryUser/Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryUser/Supplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryUser/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Roles/AdministratorRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Roles/LibrarianRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Roles/LibraryUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Roles/ReaderRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Roles/SupplierRole.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
