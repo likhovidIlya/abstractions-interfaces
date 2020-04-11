@@ -3,7 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="48959c2e-8847-4f86-8a07-35022382df9f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LibraryUser/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LibraryUser/Administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LibraryUser/Librarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LibraryUser/Librarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LibraryUser/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LibraryUser/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LibraryUser/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LibraryUser/Supplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LibraryUser/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LibraryUser/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Roles/AdministratorRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Roles/AdministratorRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Roles/LibrarianRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Roles/LibrarianRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Roles/LibraryUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Roles/ReaderRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Roles/ReaderRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Roles/SupplierRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Roles/SupplierRole.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +77,10 @@
       <screen x="0" y="0" width="1024" height="600" />
     </state>
     <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.600@0.0.1024.600" timestamp="1586430358945" />
+    <state x="321" y="14" key="#com.intellij.ide.util.MemberChooser" timestamp="1586617499983">
+      <screen x="0" y="0" width="1024" height="600" />
+    </state>
+    <state x="321" y="14" key="#com.intellij.ide.util.MemberChooser/0.0.1024.600@0.0.1024.600" timestamp="1586617499982" />
     <state x="245" y="88" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586430335810">
       <screen x="0" y="0" width="1024" height="600" />
     </state>
