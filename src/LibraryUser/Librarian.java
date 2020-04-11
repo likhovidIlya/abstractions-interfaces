@@ -11,8 +11,8 @@ public class Librarian extends User implements LibrarianRole, AdministratorRole 
 
 
     @Override
-    public void findsBook(Librarian librarian) {
-        
+    public void findsBook(Librarian lib) {
+
     }
 
     @Override
@@ -26,7 +26,7 @@ public class Librarian extends User implements LibrarianRole, AdministratorRole 
     }
 
     @Override
-    public void orderBook(Supplier supplier) {
+    public void orderBook(Supplier sup) {
 
     }
 }

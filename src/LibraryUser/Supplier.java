@@ -11,17 +11,17 @@ public class Supplier extends User implements SupplierRole, ReaderRole {
 
 
     @Override
-    public void takeBook(Administrator administrator) {
+    public void takeBook() {
 
     }
 
     @Override
-    public void returnsBook(Administrator administrator) {
+    public void returnsBook(Administrator adm) {
 
     }
 
     @Override
-    public void suppliesBook(Librarian librarian) {
+    public void suppliesBook(Librarian lib) {
 
     }
 }

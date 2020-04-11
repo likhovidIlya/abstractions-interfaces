@@ -7,10 +7,9 @@
       <change beforePath="$PROJECT_DIR$/src/LibraryUser/Librarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LibraryUser/Librarian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LibraryUser/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LibraryUser/Reader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LibraryUser/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LibraryUser/Supplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LibraryUser/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LibraryUser/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Roles/AdministratorRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Roles/AdministratorRole.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Roles/LibrarianRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Roles/LibrarianRole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Roles/LibraryUser.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Roles/ReaderRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Roles/ReaderRole.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Roles/SupplierRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Roles/SupplierRole.java" afterDir="false" />
     </list>
@@ -85,5 +84,29 @@
       <screen x="0" y="0" width="1024" height="600" />
     </state>
     <state x="245" y="88" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1024.600@0.0.1024.600" timestamp="1586430335810" />
+    <state width="982" height="134" key="GridCell.Tab.0.bottom" timestamp="1586623896975">
+      <screen x="0" y="0" width="1024" height="600" />
+    </state>
+    <state width="982" height="134" key="GridCell.Tab.0.bottom/0.0.1024.600@0.0.1024.600" timestamp="1586623896975" />
+    <state width="982" height="134" key="GridCell.Tab.0.center" timestamp="1586623896974">
+      <screen x="0" y="0" width="1024" height="600" />
+    </state>
+    <state width="982" height="134" key="GridCell.Tab.0.center/0.0.1024.600@0.0.1024.600" timestamp="1586623896974" />
+    <state width="982" height="134" key="GridCell.Tab.0.left" timestamp="1586623896973">
+      <screen x="0" y="0" width="1024" height="600" />
+    </state>
+    <state width="982" height="134" key="GridCell.Tab.0.left/0.0.1024.600@0.0.1024.600" timestamp="1586623896973" />
+    <state width="982" height="134" key="GridCell.Tab.0.right" timestamp="1586623896974">
+      <screen x="0" y="0" width="1024" height="600" />
+    </state>
+    <state width="982" height="134" key="GridCell.Tab.0.right/0.0.1024.600@0.0.1024.600" timestamp="1586623896974" />
+    <state x="227" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1586623722620">
+      <screen x="0" y="0" width="1024" height="600" />
+    </state>
+    <state x="227" y="0" key="refactoring.ChangeSignatureDialog/0.0.1024.600@0.0.1024.600" timestamp="1586623722620" />
+    <state x="172" y="128" key="run.anything.popup" timestamp="1586622459178">
+      <screen x="0" y="0" width="1024" height="600" />
+    </state>
+    <state x="172" y="128" key="run.anything.popup/0.0.1024.600@0.0.1024.600" timestamp="1586622459178" />
   </component>
 </project>

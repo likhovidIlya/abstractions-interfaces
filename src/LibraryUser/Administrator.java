@@ -10,7 +10,7 @@ public class Administrator extends User implements AdministratorRole {
 
 
     @Override
-    public void findsBook(Librarian librarian) {
+    public void findsBook(Librarian lib) {
 
     }
 
